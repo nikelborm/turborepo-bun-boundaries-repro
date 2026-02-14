@@ -1,6 +1,8 @@
 # To repro
 
 ```sh
+git clone https://github.com/nikelborm/turborepo-bun-boundaries-repro.git
+cd turborepo-bun-boundaries-repro
 bun i
 bunx turbo boundaries
 ```
